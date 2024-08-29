@@ -29,4 +29,4 @@ My goal? To create tools that simplify life and boost productivity, one line of 
 ### 📊 Stats
 
 
-![Your GitHub contributions](https://github-readme-stats.vercel.app/api?username=deathgumi&count_private=true&show_icons=true&theme=shadow_red)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deathgumi&theme=dark)](https://git.io/streak-stats)
