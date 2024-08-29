@@ -1,18 +1,13 @@
 # 🚀 DeathGumi
-<img align = "right" alt = "Coding" width = "400" src = "https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif">
 
-📚💻🏀 ADHD-powered developer and aspiring tech polymath
+**`ADHD-powered Developer / Aspiring Tech Polymath / App Creator`**
 
-Hey, I'm a college senior leading a team to build a calendar app that actually makes sense. Why? Because most tools out there are either too basic or way too complicated, especially for those of us with ADHD.
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif">
 
-I'm passionate about:
-- Software engineering
-- Data science
-- UX/UI design
+I'm a college senior leading a team to build a calendar app that actually makes sense. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Why focus on calendars? Because most tools out there are either too basic or way too complicated, especially for those of us with ADHD.
 
-When I'm not coding, you'll find me devouring books on tech and design, playing basketball or volleyball, or brainstorming my next project. I used to game a lot, but lately, I'm having more fun bringing my app ideas to life.
 
-My goal? To create tools that simplify life and boost productivity, one line of code at a time. Let's build something cool together!
+---
 
 ### 🧰 Languages and Tools
 
@@ -26,11 +21,13 @@ My goal? To create tools that simplify life and boost productivity, one line of 
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <br />
 
-### 📊 Stats
+#
 
+### 📊 Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deathgumi&theme=dark)](https://git.io/streak-stats)
 
+#
 
 <details>
  <summary><h3>👨‍💻 Nam's Coding Journey</h3></summary>
