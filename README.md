@@ -30,3 +30,21 @@ My goal? To create tools that simplify life and boost productivity, one line of 
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deathgumi&theme=dark)](https://git.io/streak-stats)
+
+
+<details>
+ <summary><h3>👨‍💻 Nam's Coding Journey</h3></summary>
+   My journey into the world of coding wasn't a straight path. Initially, I dreamed of becoming an architect, fascinated by the idea of designing spaces. But in my junior year of high school, I stumbled upon computer science and fell in love with a different kind of design - the architecture of software.
+
+   As I dove deeper into coding, I found myself captivated by the endless possibilities it offered. Balancing my newfound passion with my love for badminton, I navigated through high school, excited about the future in tech that lay ahead.
+
+   College brought its own set of challenges. The rigid structure of assignments and coding tasks I didn't always connect with led to a brief falling out with programming. But as they say, absence makes the heart grow fonder. It wasn't until I started working on my own app that I rediscovered my passion for coding and design.
+
+   Living with ADHD, I've always found it challenging to use existing apps. They're either too simple, lacking essential features, or so complicated they require a tutorial just to get started. This frustration became my motivation. I decided to create my own calendar app, one that would cater to my needs and potentially help others facing similar challenges.
+
+   Through this process, I've gained a deeper understanding of front-end and back-end development, design principles, and even psychology. I've learned to appreciate the intricate dance between functionality and user experience.
+
+   As I continue to develop my skills, I'm exploring various paths in tech. Whether it's diving into the world of data science, honing my software engineering skills, or focusing on UX/UI design, I'm excited about the possibilities. And yes, I know I need to brush up on my algorithms too (it's always a work in progress, right?).
+
+   This journey has taught me that it's okay to pivot, to rediscover passions, and to create solutions for problems you personally face. As I work towards landing a job in tech and continue to develop my app, I'm reminded that the most fulfilling path is often the one you carve out for yourself.
+</details>
