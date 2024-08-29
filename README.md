@@ -1,6 +1,6 @@
 # 🚀 DeathGumi
 
-**`ADHD-powered Developer / Aspiring Tech Polymath / App Creator`**
+**`ADHD-powered Developer / App Creator`**
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif">
 
