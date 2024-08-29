@@ -26,4 +26,7 @@ My goal? To create tools that simplify life and boost productivity, one line of 
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <br />
 
-![DeathGumis's GitHub stats](https://github-readme-stats.vercel.app/api?username=deathgumi&show_icons=true&theme=shadow_red)
+### 📊 Stats
+
+
+![Your GitHub contributions](https://github-readme-stats.vercel.app/api?username=deathgumi&count_private=true&show_icons=true&theme=shadow_red)
