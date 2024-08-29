@@ -1,4 +1,4 @@
-# 🚀 DeathGumi
+# 🧠🤯🚀 DeathGumi
 
 **`ADHD-powered Developer / App Creator`**
 
